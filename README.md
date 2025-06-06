@@ -15,7 +15,6 @@ Continuous Improvement: Our system is designed for continuous improvement. As we
 
 Take charge of your health with our Personalized Medical Recommendation System. Your well-being is our priority, and we're dedicated to providing you with the tools and insights you need for a healthier, happier life.
 
-
 #HomePage with Sample Data 1;
 ![Homepage](https://github.com/Niraj-Hitpump/Medicine-Recommendation-System-with-Machine-Learning/blob/main/images/home1.png)
 
